@@ -1,0 +1,6 @@
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\StoreServices\bin\Debug\StoreServices.dll.config
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\StoreServices\bin\Debug\StoreServices.dll
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\StoreServices\bin\Debug\StoreServices.pdb
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\StoreServices\obj\Debug\StoreServices.csprojResolveAssemblyReference.cache
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\StoreServices\obj\Debug\StoreServices.dll
+C:\Users\v-ysobol\Documents\Visual Studio 2013\Projects\StoreServices\StoreServices\obj\Debug\StoreServices.pdb
